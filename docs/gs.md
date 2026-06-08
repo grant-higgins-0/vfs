@@ -79,7 +79,7 @@ See https://cloud.google.com/docs/authentication/production for more auth info
 
 ### See Also
 
-See: https://github.com/googleapis/google-cloud-go/tree/master/storage
+See: https://github.com/googleapis/google-cloud-go/tree/main/storage
 
 ## Usage
 
